@@ -43,7 +43,8 @@ def predictLR_M(matrix, i_matrix, u_matrix, abc):
 
 	rows = matrix.shape[0]
 
-
+def nothing()
+	return 1
 
 	# calculate a matrix with predicted values
 	predicted = []
